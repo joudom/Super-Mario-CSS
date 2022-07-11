@@ -1,0 +1,29 @@
+.header {
+    display: grid;
+    justify-content: center;
+}
+
+.hat {
+    background-color: red;
+    height: 100px;
+}
+
+.hair {
+    background-color: brown;
+    height: 100px;
+}
+
+.face {
+    background-color: beige;
+    height: 100px;
+}
+
+.pants {
+    background-color: blue;
+    height: 100px;
+}
+
+.button {
+    background-color: yellow;
+    height: 100px;
+}
